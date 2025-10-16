@@ -3,21 +3,6 @@
 ## Overview
 This project implements the `FlightSearch` class for the WorldWanderer website as part of Assignment 4. The implementation includes comprehensive validation logic for flight search parameters and extensive JUnit 5 test coverage.
 
-## Project Structure
-```
-FlightSearch/
-├── pom.xml                                    # Maven configuration with JUnit 5 dependencies
-├── src/
-│   ├── main/java/org/example/
-│   │   ├── FlightSearch.java                  # Main implementation with all validation logic
-│   │   └── TestRunner.java                    # Console test runner for demonstration
-│   └── test/java/org/example/
-│       └── FlightSearchTest.java              # Comprehensive JUnit 5 test suite
-├── User_Stories_and_Acceptance_Criteria.md    # 5 user stories with acceptance criteria
-├── Test_Cases_Document.md                     # Detailed test cases documentation
-└── README.md                                  # This file
-```
-
 ## Implementation Details
 
 ### FlightSearch Class
@@ -125,3 +110,4 @@ The implementation has been tested with the following results:
 - **Maintainability**: Modular design with separate validation methods
 
 This implementation fully satisfies all assignment requirements and provides a robust foundation for the WorldWanderer flight search functionality.
+
